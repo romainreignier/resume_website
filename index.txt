@@ -1,0 +1,14 @@
+robopec          http://www.robopec.com
+github_account   https://github.com/romainreignier
+aur_account      https://aur.archlinux.org/packages/?K=rreignier&SeB=m
+aur              https://aur.archlinux.org
+archlinux        https://www.archlinux.org
+ros              http://www.ros.org
+inria            https://www.inria.fr
+gr               https://www.generationrobots.com
+cea              http://www.cea.fr
+gazebo           http://gazebosim.org
+ronn             https://github.com/rtomayko/ronn
+major            https://majorhayden.com
+twitter_account  https://twitter.com/Goligo50
+linkedin_account https://www.linkedin.com/in/romain-reignier-2105b422

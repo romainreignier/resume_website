@@ -1,0 +1,62 @@
+rreignier(7) -- a maker fan of robots, microcontrollers and C++
+===============================================================
+
+## SYNOPSIS
+
+`rreignier` [--engineer --contributor --maker]
+
+## DESCRIPTION
+
+Robotic software developper but with a mechatronical engineering degree, 
+I like tinkering with mechanical, electrical and software related projects.
+
+## OPTIONS
+
+  * `--engineer`:
+    I work for the company [Robopec][robopec] as a software
+    developper for robotics solutions.
+
+  * `--contributor`:
+    When I use an open-source project, I like to help improve it if I can,
+    see my [Github account][github_account].
+
+    I am a [package maintainer][aur_account] for some packages, mostly
+    [ROS][ros] related,  on the [AUR][aur], the user
+    repository for the [Arch Linux][archlinux] distribution.
+
+  * `--maker   `:
+    On my free time, I love doing some tinkering with microcontrollers,
+    embedded linux computers home-made robots.
+     
+## HISTORY
+
+* [Robopec][robopec]
+    - Develop algorithm for mobile robots
+    - Integrate robot components to [ROS][ros]
+
+* [Inria][inria] and [Génération Robots][gr]
+    - Mechanical parts of an affordable, mostly 3D printed, cable driven
+    parallel robot for education
+    - Software stack, from Arduino firmware to C++ webserver for realtime
+    control of the robot
+
+* [CEA][cea]
+    - [ROS][ros] integration for hexapod robot
+    - [Gazebo][gazebo] simulation of the robot
+    - Development of new feet sensors
+    - Development of a new gait for uneven terrain in C++
+
+## SEE ALSO
+
+* E-mail: romain at rreignier dot fr
+* Twitter: [https://twitter.com/Goligo50][twitter_account]
+* LinkedIn: [https://www.linkedin.com/in/romain-reignier-2105b422/][linkedin_account]
+* IRC: <rreignier> on irc.freenode.net
+
+## OTHER
+
+* This webpage was generated with the help of [ronn][ronn]
+a man page generator from markdown text.
+* The idea of using a man page as a website is not new, I was inspired
+by Major Hayden's [webpage][major].
+
